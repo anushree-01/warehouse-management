@@ -1,4 +1,4 @@
-# wareshouse-management
+# warehouse-management
 
 
 The assignment is to implement a warehouse software. 
