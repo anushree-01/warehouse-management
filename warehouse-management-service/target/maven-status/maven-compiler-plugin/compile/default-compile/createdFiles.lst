@@ -1,0 +1,12 @@
+biz\warehouse\management\controlller\WarehouseManagementController.class
+biz\warehouse\management\model\Inventory.class
+biz\warehouse\management\repository\InventoryRepository.class
+biz\warehouse\management\DTO\InventoryDTO.class
+biz\warehouse\management\DTO\SoftwareWarehouseDTO.class
+biz\warehouse\management\DTO\ContainArticle.class
+biz\warehouse\management\model\Product.class
+biz\warehouse\management\DTO\ProductDTO.class
+biz\warehouse\management\repository\ProductRepository.class
+biz\warehouse\management\WarehouseApplication.class
+biz\warehouse\management\model\ProductArticleMap.class
+biz\warehouse\management\repository\ProductArticleRepository.class
