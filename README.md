@@ -1,2 +1,2 @@
-# wareshouse-management
+# warehouse-management
 Warehouse Management System
