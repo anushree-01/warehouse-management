@@ -26,4 +26,7 @@ public interface InventoryRepository extends JpaRepository<Inventory, Integer> {
 	@Query(value = "delete Article_tab where article_id= :article_id", nativeQuery = true)
 	void deleteByArticleId(int article_id);
 
+	@Query(value = "select * from Article_tab where article_id= :article_id", nativeQuery = true)
+	Inventory findByArticleIdWithoutOption(int article_id);
+
 }
